@@ -1,2 +1,1 @@
-# richards-dashboard
-My personal command center
+# Richard's Dashboard
