@@ -1,0 +1,1 @@
+function u(){clock.textContent=new Date().toLocaleString()}setInterval(u,1000);u();const t=document.getElementById('notes');t.value=localStorage.getItem('rcc_notes')||'';t.oninput=()=>localStorage.setItem('rcc_notes',t.value);
